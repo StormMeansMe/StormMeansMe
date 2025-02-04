@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @StormMeansMe
-- 👀 I’m interested in lots of things!
-- 🌱 I’m currently learning Software Engineering @ WGU
+- 👋 Hi, I’m Justin
+- 👀 I’m interested in developing my skills to further my career!
+- 🌱 I’m currently pursuing a Bachelor of Science in Software Engineering @ WGU
 - 💞️ I’m looking to collaborate on Python, HTML/CSS/JS, and C#
-- 📫 How to reach me tbd
 - 😄 Pronouns: He/Him
 
 <!---
